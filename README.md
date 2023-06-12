@@ -1,6 +1,6 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
-# C is FUN 
+# C is FUN 😊
 
 >Learning C right now, been wanting to get on this. It's going to be FUN !!.
 
@@ -10,7 +10,7 @@
 
 ## About
 
-- This repository consists of all the C programming projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [Paradigm extra](https://www.paradigmetra.com/).
+- This repository consists of all the C programming projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [th3\_gr00t](https://www.paradigmetra.com/).
 - All main.c files are prewritten by the school. We build functions that produce a specific output while also taking into consideration edge cases.
 
 ---
